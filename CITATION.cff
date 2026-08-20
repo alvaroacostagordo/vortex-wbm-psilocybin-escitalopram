@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and this software release."
+title: "Code for modelling vortex interactions in antidepressant brain reconfiguration"
+type: software
+version: 1.0.0
+date-released: "2026-08-18"
+repository-code: "https://github.com/alvaroacostagordo/vortex-wbm-psilocybin-escitalopram"
+license: MIT
+abstract: >-
+  MATLAB and Python code for subject-specific whole-brain modelling in signal
+  and vortex spaces and for the downstream machine-learning, regional global
+  brain connectivity, connectome-based clinical association, network modularity, and
+  brain-turbulence analyses reported in the associated manuscript.
+keywords:
+  - major depressive disorder
+  - whole-brain modelling
+  - effective connectivity
+  - brain turbulence
+  - modularity
+  - machine learning
+  - psilocybin
+  - escitalopram
+preferred-citation:
+  type: article
+  title: "Modelling vortex interactions reveals distinct patterns of brain reconfiguration following psilocybin and escitalopram"
+  status: in-preparation
+  year: 2026
+  authors:
+    - family-names: "Acosta Gordo"
+      given-names: "Álvaro"
+    - family-names: "Dagnino"
+      given-names: "Paulina Clara"
+    - family-names: "Sanz Perl"
+      given-names: "Yonatan"
+    - family-names: "Nutt"
+      given-names: "David J."
+    - family-names: "Carhart-Harris"
+      given-names: "Robin L."
+    - family-names: "Kringelbach"
+      given-names: "Morten L."
+    - family-names: "Deco"
+      given-names: "Gustavo"

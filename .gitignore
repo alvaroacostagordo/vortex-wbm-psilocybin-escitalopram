@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# MATLAB and Slurm
+*.asv
+*.m~
+slprj/
+codegen/
+slurm-*.out
+*.out
+*.err
+
+# Restricted inputs
+psilodep2_1000_*.mat
+SC_schaefer100_17Networks_32fold_groupconnectome_2mm_symm.mat
+
+# Subject-level outputs
+model_hopf_FC_*.mat
+model_vortex_partition_social_*.mat
+
+# Analysis outputs
+modularity_results.mat
+modularity_signal_results.mat
+modularity_statistics_*.csv
+representative_community_plots*/
